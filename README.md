@@ -26,7 +26,10 @@ Moving from “View_item” to “Add to Cart,” we observe high drop-off rates
 At the “Add Payment Info” stage, conversion drops significantly to around 58-60%, meaning that 40-42% of users abandon their purchase after entering shipping details. Possible reasons include unexpected shipping costs or additional fees, a lack of preferred payment options, a complicated checkout process, or trust issues.	<br>	
 
 **💡What should be done?** The business should optimise the checkout experience by offering transparent pricing, different payment options, guaranteeing security, and simplifying the overall checkout process. 			
-			
+---
+
+🔗 Link to the Google Sheets analysis: [Funnel Analysis](https://docs.google.com/spreadsheets/d/1gDVUrngVskVPPDD0ZopH_4RZMhSCC76PGx5DqrxdgfE/edit?usp=sharing)
+
 			
 			
 			

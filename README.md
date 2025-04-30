@@ -12,7 +12,7 @@
 
 ## Results, Key Insights, and Recommendations
 
-The funnels.sql code was utilized to extract data for further analysis. Funnels were generated for the top three countries based on the percentages of customer drop-off throughout the events. 
+The `funnels.sql` code was utilized to extract data for further analysis. Funnels were generated for the top three countries based on customer count and the percentages of customer drop-off throughout the events. 
 
 ![image](https://github.com/user-attachments/assets/3ff2768b-c145-4484-bca3-c8e3506d17d5)
 

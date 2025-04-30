@@ -29,7 +29,7 @@ At the “Add Payment Info” stage, conversion drops significantly to around 58
 
 ---
 
-🔗 Link to the Google Sheets analysis: [Funnel Analysis](https://docs.google.com/spreadsheets/d/1gDVUrngVskVPPDD0ZopH_4RZMhSCC76PGx5DqrxdgfE/edit?usp=sharing)
+🔗 Link to the full analysis in the Google Sheets : [Funnel Analysis](https://docs.google.com/spreadsheets/d/1gDVUrngVskVPPDD0ZopH_4RZMhSCC76PGx5DqrxdgfE/edit?usp=sharing)
 
 			
 			
